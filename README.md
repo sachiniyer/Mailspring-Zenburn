@@ -1,4 +1,3 @@
-# IN PROGRESS
 # Mailspring Theme Starter
 
 The Mailspring Theme Starter is a basic starting point for creating a theme for
